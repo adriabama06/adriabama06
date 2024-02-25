@@ -4,6 +4,9 @@ Soy un estudiante que por su cuenta, de forma autodidacta, ha aprendido a progra
 
 Me gusta programar ^w^
 
+## [✨ Featured](https://github.com/stars/adriabama06/lists/featured)
+Aquí tienes mis repositorios más destacados ヾ(≧▽≦*)
+
 ## 🌐 Estoy aquí :D
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tYTnfdJFCa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/adriabama06) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20541551) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/adriabama06) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@adriabama06) 
 
