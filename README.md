@@ -2,7 +2,7 @@
 Si? Eh.. Esto...  
 Soy un estudiante que por su cuenta, de forma autodidacta, ha aprendido a programar, gracias a que me gustan mucho los ordenadores y he hecho muchas cosas relacionadas con la informatica he podido aprender a programar por mi mismo.
 
-Me gusta programar ^w^
+Me gusta programar ^w^ (Creo que estoy obsesionado con Docker)
 
 ## [✨ Featured](https://github.com/stars/adriabama06/lists/featured)
 Aquí tienes mis repositorios más destacados ヾ(≧▽≦*)
