@@ -1,6 +1,6 @@
-## Yo?
-Si? Eh.. Esto...  
-Soy un estudiante que por su cuenta, de forma autodidacta, ha aprendido a programar, gracias a que me gustan mucho los ordenadores y he hecho muchas cosas relacionadas con la informatica he podido aprender a programar por mi mismo.
+## ¿Yo?
+¿Sí? Eh.. Esto...  
+Soy un estudiante que por su cuenta, de forma autodidacta, ha aprendido a programar, gracias a que me gustan mucho los ordenadores y he hecho muchas cosas relacionadas con la informática, he podido aprender a programar por mí mismo.
 
 Me gusta programar ^w^ (Creo que estoy obsesionado con Docker)
 
@@ -24,12 +24,12 @@ Aquí tienes mis repositorios más destacados ヾ(≧▽≦*)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-# 📊 Mis estadisticas de github:
+# 📊 Mis estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=adriabama06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adriabama06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriabama06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Perdon por lo del glsl y lua... No fue buena idea subir mi mpv preconfigurado con todo...
+Perdón por lo del glsl y lua... No fue buena idea subir mi mpv preconfigurado con todo...
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adriabama06&icon=0&color=0)](https://visitcount.itsvg.in)
