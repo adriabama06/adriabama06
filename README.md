@@ -1,6 +1,7 @@
 ## ¿Yo?
 ¿Sí? Eh.. Esto...  
-Soy un estudiante que por su cuenta, de forma autodidacta, ha aprendido a programar, gracias a que me gustan mucho los ordenadores y he hecho muchas cosas relacionadas con la informática, he podido aprender a programar por mí mismo.
+Soy un estudiante que por su cuenta, de forma autodidacta, ha aprendido a programar, gracias a que me gustan mucho los ordenadores y he hecho muchas cosas relacionadas con la informática, he podido aprender a programar por mí mismo.  
+Aunque... Actualmente, estoy en la universidad estudiando ingeniería informática en la [UPC (FIB)](https://www.fib.upc.edu/) (por eso estoy ocupado y menos activo en GitHub)
 
 Me gusta programar ^w^ (Creo que estoy obsesionado con Docker)
 
