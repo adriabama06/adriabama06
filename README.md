@@ -1,4 +1,5 @@
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fadriabama06&label=Times+visited&icon=github&color=%23198754&message=&style=for-the-badge&tz=UTC)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fadriabama06&label=Times+visited&icon=github&color=%23198754&message=&style=for-the-badge&tz=UTC)  
+<sub>*#Of today / #Of all time*</sub>
 
 ## ¿Yo?
 ¿Sí? Eh.. Esto...  
