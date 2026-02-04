@@ -1,3 +1,5 @@
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fadriabama06&label=Times+visited&icon=github&color=%23198754&message=&style=for-the-badge&tz=UTC)
+
 ## ¿Yo?
 ¿Sí? Eh.. Esto...  
 Soy un estudiante que por su cuenta, de forma autodidacta, ha aprendido a programar, gracias a que me gustan mucho los ordenadores y he hecho muchas cosas relacionadas con la informática, he podido aprender a programar por mí mismo.  
